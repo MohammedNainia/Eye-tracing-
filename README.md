@@ -23,12 +23,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MohammedNainia/Eye-tracing.git
+    git clone https://github.com/MohammedNainia/Eye-tracking-animation
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Eye-tracing
+    cd Eye-tracking-animation
     ```
 
 3. Open `index.html` in your favorite web browser.
